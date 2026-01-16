@@ -5,7 +5,7 @@ class GreetingAgent():
     """Greeting agent that returns a greeting"""
 
     async def invoke(self) -> str:
-        return "Hi Everyone! Welcome to AI with Hassan."
+        return "Hi Everyone! Welcome to AI with Zain Raza."
     
 
 # Create Agent Executor
